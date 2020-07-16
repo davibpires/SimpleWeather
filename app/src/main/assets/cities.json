@@ -1,0 +1,218 @@
+[
+  {
+    "id": 3471872,
+    "name": "Aracaju",
+    "coord": {
+      "lon": -37.071671,
+      "lat": -10.91111
+    }
+  },
+  {
+    "id": 3470127,
+    "name": "Belo Horizonte",
+    "coord": {
+      "lon": -43.937778,
+      "lat": -19.92083
+    }
+  },
+  {
+    "id": 3405863,
+    "name": "Belem",
+    "coord": {
+      "lon": -35.533329,
+      "lat": -6.69167
+    }
+  },
+  {
+    "id": 3664980,
+    "name": "Boa Vista",
+    "coord": {
+      "lon": -60.673328,
+      "lat": 2.81972
+    }
+  },
+  {
+    "id": 3469058,
+    "name": "Brasilia",
+    "coord": {
+      "lon": -47.929722,
+      "lat": -15.77972
+    }
+  },
+  {
+    "id": 3467747,
+    "name": "Campo Grande",
+    "coord": {
+      "lon": -54.646389,
+      "lat": -20.44278
+    }
+  },
+  {
+    "id": 3465038,
+    "name": "Cuiaba",
+    "coord": {
+      "lon": -56.096668,
+      "lat": -15.59611
+    }
+  },
+  {
+    "id": 3464975,
+    "name": "Curitiba",
+    "coord": {
+      "lon": -49.27306,
+      "lat": -25.42778
+    }
+  },
+  {
+    "id": 3463237,
+    "name": "Florianopolis",
+    "coord": {
+      "lon": -48.549171,
+      "lat": -27.59667
+    }
+  },
+  {
+    "id": 3399415,
+    "name": "Fortaleza",
+    "coord": {
+      "lon": -38.54306,
+      "lat": -3.71722
+    }
+  },
+  {
+    "id": 3462377,
+    "name": "Goiania",
+    "coord": {
+      "lon": -49.253891,
+      "lat": -16.67861
+    }
+  },
+  {
+    "id": 3397277,
+    "name": "Joao Pessoa",
+    "coord": {
+      "lon": -34.86306,
+      "lat": -7.115
+    }
+  },
+  {
+    "id": 3396016,
+    "name": "Macapa",
+    "coord": {
+      "lon": -51.066391,
+      "lat": 0.03889
+    }
+  },
+  {
+    "id": 3395981,
+    "name": "Maceio",
+    "coord": {
+      "lon": -35.735279,
+      "lat": -9.66583
+    }
+  },
+  {
+    "id": 3663517,
+    "name": "Manaus",
+    "coord": {
+      "lon": -60.025002,
+      "lat": -3.10194
+    }
+  },
+  {
+    "id": 3394023,
+    "name": "Natal",
+    "coord": {
+      "lon": -35.209438,
+      "lat": -5.795
+    }
+  },
+  {
+    "id": 3474574,
+    "name": "Palmas",
+    "coord": {
+      "lon": -48.360279,
+      "lat": -10.21278
+    }
+  },
+  {
+    "id": 3452925,
+    "name": "Porto Alegre",
+    "coord": {
+      "lon": -51.23,
+      "lat": -30.03306
+    }
+  },
+  {
+    "id": 3662762,
+    "name": "Porto Velho",
+    "coord": {
+      "lon": -63.903889,
+      "lat": -8.76194
+    }
+  },
+  {
+    "id": 3390760,
+    "name": "Recife",
+    "coord": {
+      "lon": -34.881111,
+      "lat": -8.05389
+    }
+  },
+  {
+    "id": 3662574,
+    "name": "Rio Branco",
+    "coord": {
+      "lon": -67.809998,
+      "lat": -9.97472
+    }
+  },
+  {
+    "id": 3451190,
+    "name": "Rio de Janeiro",
+    "coord": {
+      "lon": -43.2075,
+      "lat": -22.902781
+    }
+  },
+  {
+    "id": 3450554,
+    "name": "Salvador",
+    "coord": {
+      "lon": -38.51083,
+      "lat": -12.97111
+    }
+  },
+  {
+    "id": 3388368,
+    "name": "Sao Luis",
+    "coord": {
+      "lon": -44.30278,
+      "lat": -2.52972
+    }
+  },
+  {
+    "id": 3448439,
+    "name": "Sao Paulo",
+    "coord": {
+      "lon": -46.636108,
+      "lat": -23.547501
+    }
+  },
+  {
+    "id": 3386496,
+    "name": "Teresina",
+    "coord": {
+      "lon": -42.801941,
+      "lat": -5.08917
+    }
+  },
+  {
+    "id": 3444924,
+    "name": "Vitoria",
+    "coord": {
+      "lon": -40.33778,
+      "lat": -20.319441
+    }
+  }
+]
